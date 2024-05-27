@@ -35,7 +35,7 @@ yarn-error.log*
 next-env.d.ts
 __pycache__
 
-requirements.txt
+Pipfile
 Pipfile.lock
 package-lock.json
 
